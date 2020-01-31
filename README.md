@@ -19,24 +19,7 @@ metrics including prediction accuracy, confusion matrix and area under the ROC c
 Information about the data set:
 Abstract: From National Institute of Diabetes and Digestive and Kidney Diseases; Includes cost data
 (donated by Peter Turney)
-Data Set
-Characteristics:
-Multivariate
-Number of
-Instances:
-768 Area: Life
-Attribute
-Characteristics:
-Integer, Real
-Number of
-Attributes:
-8 Date Donated
-1990-05-
-09
-Associated Tasks: Classification Missing Values? Yes
-Number of Web
-Hits:
-125423
+(http://www.inf.u-szeged.hu/~tothl/gepitan/uci%20repository/WEB/UCI%20ML%20Repository%20Content%20Summary.htm)
 
 Attribute Information:
 1. Number of times pregnant
