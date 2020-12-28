@@ -2,26 +2,20 @@
 
 Exploratory Analysis and Machine Learning on Diabetes Dataset:
 
-For this project you will conduct exploratory analysis and will utilize sci-kit learn to train and test
-a support vector machine (SVM) to detect diabetes using the diabetes data based on the UC Irvine
-machine learning repository. You will turn in a Jupyter notebook that accomplishes the following:
-0. Get scikit learn up and running on your machine.
-1. Load the diabetes data set from the csv file linked from the Canvas assignment.
-2. Conduct exploratory analysis of the dataset. Obtain aggregate statistics on each predictor
-variable and preprocess data appropriately. Create plots to tell the story of the data: display
-the distribution of each variable and relationships between some of the variables.
-3. Partition the dataset into training and testing sets.
-4. Using 2 different kernels (rbf and polynomial), train support vector machines to classify
-examples into control (0) and case (1). Select the best model for each kernel and explain
-how you chose the parameters you used: kernel, soft margin(C), gamma or degree. Record
-metrics including prediction accuracy, confusion matrix and area under the ROC curve.
+This project includes exploratory analysis and will utilize sci-kit learn to train and test a support vector machine (SVM) to detect diabetes using the diabetes data based on the UC Irvine machine learning repository. 
 
 Information about the data set:
 Abstract: From National Institute of Diabetes and Digestive and Kidney Diseases; Includes cost data
 (donated by Peter Turney)
 (http://www.inf.u-szeged.hu/~tothl/gepitan/uci%20repository/WEB/UCI%20ML%20Repository%20Content%20Summary.htm)
 
-Attribute Information:
+The jupyter notebooks includes the following steps:
+1. Load the diabetes data set from the csv file.
+2. EDA - Conduct exploratory analysis of the dataset. Obtain aggregate statistics on each predictor variable and preprocess data appropriately. Create plots to tell the story of the data: display the distribution of each variable and relationships between some of the variables.
+3. Partition the dataset into training and testing sets.
+4. Using 2 different kernels (rbf and polynomial), train support vector machines to classify examples into control (0) and case (1). Select the best model for each kernel and explain how you chose the parameters you used: kernel, soft margin(C), gamma or degree. Record metrics including prediction accuracy, confusion matrix and area under the ROC curve.
+
+Dataset : Attribute Information:
 1. Number of times pregnant
 2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 3. Diastolic blood pressure (mm Hg)
