@@ -33,5 +33,3 @@ scikit learn machine learning tutorial: http://scikit-learn.org/stable/tutorial/
 scikit learn SVM page: http://scikit-learn.org/stable/modules/svm.html#svm
 scikit learn MinMaxScaler page:
 http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
-
-
